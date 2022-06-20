@@ -3,8 +3,8 @@ console.log("Hello world")
 const sentence = "My name is Dushen"
 console.log(sentence)
 
-const name = "Dushen"
-console.log(`Nice to meet you ${name}`)
+const firstName = "Dushen"
+console.log(`Nice to meet you ${firstName}`)
 
 let food = "Croissant is meh"
 food = food.replace("meh", "so good")
