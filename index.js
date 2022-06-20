@@ -6,7 +6,7 @@ console.log(sentence)
 const firstName = "Dushen"
 console.log(`Nice to meet you ${firstName}`)
 
-const sentenceLength = "I'm a new text"
+const sentenceLength = "I'm a new text !"
 console.log(sentenceLength.length)
 
 let food = "Croissant is meh"
