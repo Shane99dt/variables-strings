@@ -9,10 +9,8 @@ console.log(`Nice to meet you ${firstName}`)
 const sentenceLength = "I'm a new text !"
 console.log(sentenceLength.length)
 
-let food = "Croissant is meh"
-food = food.replace("meh", "so good")
-
-console.log(food)
+const food = "Croissant is meh"
+console.log(food.replace("meh", "so good"))
 
 const basic = "This is Cool"
 const basicUp = basic.toUpperCase()
