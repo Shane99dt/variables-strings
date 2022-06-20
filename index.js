@@ -38,3 +38,6 @@ console.log(lineBreakedSentence)
 const characterCodes = " So here's the first character null \0 what is that? \n then simple quote \' i think it just added a simple quote or what?\' \n then the third is double quote,\n i'll just add two \"inside the quote i think\" \n barre oblique inversée \\ added two of it and typing inside\\ \n retour chariot, what is this? \r inverse slash with letter r.\n vertical tab? \v i donno \v added two times.\n The tabulation \t its just the letter \"t\" with slash, i hope that works.\n so return back ? \b same with letter b. \n what will the page break do? \f who knows, this is after that slash with f\n that's it we'll see"
 
 console.log(characterCodes)
+
+const changed = "Bonjour"
+console.log(changed.replaceAll("o", "a"))
